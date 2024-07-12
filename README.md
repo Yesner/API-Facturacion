@@ -20,6 +20,10 @@ http://localhost:8898/facturacion/api/swagger-ui/index.html#/
 
 ![http://localhost:8898/facturacion/api/swagger-ui/index.html#/](Extra/Documentation.png)
 
+# Run
+
+java -jar build/libs/App-1.0.jar
+
 # Resources
 
 https://mvnrepository.com/
